@@ -38,7 +38,7 @@ The project was focused to detect objects that can cause security threats in a w
 This tutorial is meant to reproduce the research/project done. This Repo is under the BSD 3 license which exercises no permission for publishing and patenting this framework
 
 To get the weights for this model, please download from here from my mega cloud storage
-[click here](https://mega.nz/#F!xPpknQ7K). Download it as yolo.h5 and place it in the model_data/ folder
+[click here](https://mega.nz/#!NP5k2YzC). Download it as yolo.h5 and place it in the model_data/ folder
 
 ### 3.1 Single Node Relay:
 For pure testing purpose, a single node version is implemented in python. To run this, execute SingleNode.py file with python 3.6.3 or greater. The steps to reproduce the work for a single node is as follows:
