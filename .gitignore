@@ -1,0 +1,9 @@
+# Folders
+__pycache__/
+.vscode/
+
+# Files
+model_data/yolo.h5
+yolov3.weights
+nn4.small2.v7.h5
+

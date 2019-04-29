@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+opencv-contrib-python
+opencv-python
+pillow
+kafka-python
+flask
+keras
+scipy
+tensorflow==1.12
+keras
